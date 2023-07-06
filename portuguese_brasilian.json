@@ -1,0 +1,108 @@
+{
+  "sidebar": {
+    "dashboard": "",
+    "userManagement": "",
+    "roleManager": "",
+    "profiles": "",
+    "recorders": "",
+    "reports": "",
+    "settings": "",
+    "profile": "",
+    "logout": ""
+  },
+  "roleManager": {
+    "breadcrumb": "",
+    "allRoles": "",
+    "viewRole": ""
+  },
+  "roleAdd": {
+    "roleDetails": "",
+    "roleName": "",
+    "roleNamePlaceholder": "",
+    "color": "",
+    "addUser": "",
+    "addUserPlaceholder": "",
+    "tableRoles": "",
+    "tablePlaceholder": ""
+  },
+  "users": {
+    "breadcrumb": "",
+    "userList": "",
+    "roles": "",
+    "descriptionPlaceholder": ""
+  },
+  "permissionForm": {
+    "spotterAdmin": "",
+    "spotterWeb": "",
+    "userManagement": "",
+    "noAccess": "",
+    "viewOnly": "",
+    "edit": "",
+    "admin": "",
+    "deviceAccess": "",
+    "deviceDescription": "",
+    "viewRoleManager": "",
+    "viewRoleManagerInfo": "",
+    "switchInfo": "",
+    "deleteRole": "",
+    "editRole": "",
+    "deviceView": "",
+    "deviceAdd": "",
+    "deviceDelete": "",
+    "deviceEdit": "",
+    "viewRecorders": "",
+    "addNewRecorder": "",
+    "deleteRecorder": "",
+    "editRecorder": "",
+    "viewLiveStream": "",
+    "viewPlayback": "",
+    "exportVideoClips": "",
+    "controlCameraPTZ": "",
+    "createCameraPTZPresets": "",
+    "viewAlarmEvents": "",
+    "openAlarmsForViewing": ""
+  },
+  "userCreate": {
+    "title": "",
+    "userDetails": "",
+    "emailPlaceholder": "",
+    "firstName": "",
+    "firstNamePlaceholder": "",
+    "lastName": "",
+    "lastNamePlaceholder": "",
+    "language": "",
+    "languagePlaceholder": "",
+    "roles": "",
+    "addRolesPlaceholder": ""
+  },
+  "userEditView": {
+    "resetPassword": "",
+    "deleteUser": "",
+    "permissions": "",
+    "password": "",
+    "passwordTip": "",
+    "placeholder": "",
+    "edit": ""
+  },
+  "roleView": {
+    "notFound": "",
+    "permissions": "",
+    "deleteRole": ""
+  },
+  "roleEdit": {
+    "save": ""
+  },
+  "common": {
+    "users": "",
+    "editRole": "",
+    "addNewRole": "",
+    "addRole": "",
+    "permissions": "",
+    "descriptionOptional": "",
+    "descriptionPlaceholder": "",
+    "name": "",
+    "email": "",
+    "addUser": "",
+    "description": ""
+  }
+}

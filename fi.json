@@ -1,0 +1,108 @@
+{
+  "sidebar": {
+    "dashboard": "Hallintapaneeli",
+    "userManagement": "Käyttäjien hallinta",
+    "roleManager": "Roolien hallinta",
+    "profiles": "Laitepääsy",
+    "recorders": "Tallentimet",
+    "reports": "Raportit",
+    "settings": "Asetukset",
+    "profile": "Profiili",
+    "logout": "Kirjaudu ulos"
+  },
+  "roleManager": {
+    "breadcrumb": "Roolien hallinta",
+    "allRoles": "Kaikki roolit",
+    "viewRole": "Näytä rooli"
+  },
+  "roleAdd": {
+    "roleDetails": "Roolin tiedot",
+    "roleName": "Roolin nimi",
+    "roleNamePlaceholder": "roolin-nimi",
+    "color": "Väri",
+    "addUser": "Lisää käyttäjä (valinnainen)",
+    "addUserPlaceholder": "Valitse käyttäjä",
+    "tableRoles": "Muut roolit",
+    "tablePlaceholder": "Tälle roolille ei ole vielä liitetty käyttäjiä"
+  },
+  "users": {
+    "breadcrumb": "Kaikki käyttäjät",
+    "userList": "Käyttäjälista",
+    "roles": "Rooli(t)",
+    "description": "Tämä on kuvaus."
+  },
+  "permissionForm": {
+    "spotterAdmin": "Pääsy Spotter Admin",
+    "spotterWeb": "Pääsy  Spotter Web",
+    "userManagement": "Pääsy käyttäjähallintaan",
+    "noAccess": "Ei pääsyä",
+    "viewOnly": "Näytä vain",
+    "edit": "Muokkaa",
+    "admin": "Ylläpitäjä",
+    "deviceAccess": "Laitteen käyttöoikeus",
+    "deviceDescription": "Valitse [Laitteen käyttöoikeus], joka liittyy rooliin.",
+    "viewRoleManager": "Näytä roolinhallinta",
+    "viewRoleManagerInfo": "Roolinhallinta on käytettävissä vain, jos käyttäjähallinta on käytettävissä.",
+    "switchInfo": "Roolitasolla myönnettyjä oikeuksia ei voi muokata käyttäjätasolla.",
+    "deleteRole": "Poista Roolit",
+    "editRole": "Muokkaa Rooleja",
+    "deviceView": "Näytä Laitteen Käyttöoikeus",
+    "deviceAdd": "Lisää Uusi Laitteen Käyttöoikeus",
+    "deviceDelete": "Poista Laitteen Käyttöoikeus",
+    "deviceEdit": "Muokkaa Laitteen Käyttöoikeutta",
+    "viewRecorders": "Näytä Tallentimet",
+    "addNewRecorder": "Lisää Uusi Tallennin",
+    "deleteRecorder": "Poista Tallennin",
+    "editRecorder": "Muokkaa Tallentimia",
+    "viewLiveStream": "Näytä Suoratoisto",
+    "viewPlayback": "Näytä Toisto",
+    "exportVideoClips": "Vie Videoleikkeet",
+    "controlCameraPTZ": "Kameran PTZ-ohjaus",
+    "createCameraPTZPresets": "Luo Kameran PTZ-esiasetukset",
+    "viewAlarmEvents": "Näytä Hälytystapahtumat",
+    "openAlarmsForViewing": "Avaa Hälytykset Katseltavaksi"
+  },
+  "userCreate": {
+    "title": "Lisää uusi käyttäjä",
+    "userDetails": "Käyttäjätiedot",
+    "emailPlaceholder": "Syötä Sähköpostiosoite",
+    "firstName": "Nimi",
+    "firstNamePlaceholder": "Syötä Nimi",
+    "lastName": "Sukunimi",
+    "lastNamePlaceholder": "Syötä sukunimi",
+    "language": "Kieli",
+    "languagePlaceholder": "Valitse kieli",
+    "roles": "Roolit",
+    "addRolesPlaceholder": "Valitse lisättävä rooli"
+  },
+  "userEditView": {
+    "resetPassword": "Nollaa salasana",
+    "deleteUser": "Poista käyttäjä",
+    "permissions": "Käyttäjän käyttöoikeudet",
+    "password": "Salasana",
+    "passwordTip": "Täällä voit nollata tämän käyttäjän salasanan. Sähköposti lähetetään heidän sähköpostitililleen, jotta he voivat nollata salasanansa.",
+    "placeholder": "Kopioi - paikkateksti.",
+    "edit": "Muokkaa käyttäjää"
+  },
+  "roleView": {
+    "notFound": "Roolia ei löytynyt",
+    "permissions": "Roolin käyttöoikeudet",
+    "deleteRole": "Poista rooli"
+  },
+  "roleEdit": {
+    "save": "Tallenna muutokset"
+  },
+  "common": {
+    "users": "Käyttäjät",
+    "editRole": "Muokkaa roolia",
+    "addNewRole": "Lisää uusi rooli",
+    "addRole": "Lisää rooli",
+    "permissions": "Oikeudet",
+    "descriptionOptional": "Kuvaus (valinnainen)",
+    "descriptionPlaceholder": "Syötä kuvaus",
+    "name": "Nimi",
+    "email": "Sähköpostiosoite",
+    "addUser": "Lisää käyttäjä",
+    "description": "Kuvaus"
+  }
+}

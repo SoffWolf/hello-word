@@ -1,0 +1,153 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "userManagement": "User management",
+    "roleManager": "Role manager",
+    "profiles": "Profiles",
+    "recorders": "Recorders",
+    "reports": "Reports",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "roleManager": {
+    "breadcrumb": "Role Manager",
+    "allRoles": "All Roles",
+    "viewRole": "View Role",
+    "description": "Here you can find all the roles you’ve set up."
+  },
+  "roleAdd": {
+    "roleDetails": "Role Details",
+    "roleName": "Role Name",
+    "roleNamePlaceholder": "role-name",
+    "color": "Color",
+    "addUser": "Add User (optional)",
+    "addUserPlaceholder": "Select User",
+    "tableRoles": "Other Role(s)",
+    "tablePlaceholder": "There are no users associated with this role yet"
+  },
+  "users": {
+    "breadcrumb": "All users",
+    "userList": "User List",
+    "roles": "Role(s)",
+    "descriptionPlaceholder": "This is a description."
+  },
+  "permissionForm": {
+    "spotterAdmin": "Access to Spotter Admin",
+    "spotterWeb": "Access to Spotter Web",
+    "userManagement": "Access to User Management",
+    "noAccess": "No Access",
+    "viewOnly": "View Only",
+    "edit": "Edit",
+    "admin": "Admin",
+    "deviceAccess": "Device Access",
+    "deviceDescription": "Select the [DEVICE ACCESS] associated with the role.",
+    "viewRoleManager": "View Role Manager",
+    "viewRoleManagerInfo": "Role Manager is only accessible if the User Management is accessible.",
+    "switchInfo": "Permissions granted on a role level are non-editable on the user level.",
+    "deleteRole": "Delete Roles",
+    "editRole": "Edit Roles",
+    "deviceView": "View Device Access",
+    "deviceAdd": "Add New Device Access",
+    "deviceDelete": "Delete Device Access",
+    "deviceEdit": "Edit Device Access",
+    "viewRecorders": "View Recorders",
+    "addNewRecorder": "Add New Recorder",
+    "deleteRecorder": "Delete Recorder",
+    "editRecorder": "Edit Recorders",
+    "viewLiveStream": "View Live Stream",
+    "viewPlayback": "View Playback",
+    "exportVideoClips": "Export Video Clips",
+    "controlCameraPTZ": "Control Camera PTZ",
+    "createCameraPTZPresets": "Create Camera PTZ Presets",
+    "viewAlarmEvents": "View Alarm Events",
+    "openAlarmsForViewing": "Open Alarms For Viewing"
+  },
+  "userCreate": {
+    "title": "Add New User",
+    "userDetails": "User Details",
+    "emailPlaceholder": "Enter email address",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter first name",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter last name",
+    "language": "Language",
+    "languagePlaceholder": "Select language",
+    "roles": "Roles",
+    "addRolesPlaceholder": "Select role to add"
+  },
+  "userEditView": {
+    "resetPassword": "Reset Password",
+    "deleteUser": "Delete User",
+    "permissions": "User Permissions",
+    "password": "Password",
+    "passwordTip": "Here you can reset this user’s password. An email will be sent to their email account for them to reset their password.",
+    "placeholder": "Copy - placeholder text.",
+    "edit": "Edit User"
+  },
+  "roleView": {
+    "notFound": "Role Not Found",
+    "permissions": "Role Permissions",
+    "deleteRole": "Delete Role"
+  },
+  "roleEdit": {
+    "save": "Save Changes"
+  },
+  "common": {
+    "users": "Users",
+    "editRole": "Edit Role",
+    "addNewRole": "Add New Role",
+    "addRole": "Add Role",
+    "permissions": "Permissions",
+    "descriptionOptional": "Description (optional)",
+    "descriptionPlaceholder": "Enter a description",
+    "name": "Name",
+    "email": "Email Address",
+    "addUser": "Add User",
+    "description": "Description",
+    "protocol": "Protocol",
+    "port": "Port",
+    "address": "Address",
+    "deviceModel": "Device Model",
+    "deviceName": "Device Name",
+    "username": "Username",
+    "search": "Search"
+  },
+  "deviceView": {
+    "deleteDevice": "Delete Device",
+    "deletePlaceholder": "Copy - placeholder text.",
+    "editDevice": "Edit Device",
+    "channels": "Channels",
+    "settings": "Device Settings",
+    "streamSettings": "Video Stream Settings",
+    "frameRate": "Frame Rate",
+    "resolution": "Resolution",
+    "bitrateMode": "Bitrate Mode",
+    "bitrate": "Bitrate",
+    "quality": "Compression Quality",
+    "deviceNotFound": "Device Not Found"
+  },
+  "editDevice": {
+    "editDevice": "Edit Device"
+  },
+  "profiles": {
+    "breadcrumb": "profiles",
+    "all": "All Profiles",
+    "create": "Create Profile",
+    "createNew": "Create New Profile",
+    "description": "Here you can find all the profiles you’ve set up.",
+    "noProfiles": "There’s not Device Profiles yet. Create a new one.",
+    "noSearch": "No results corresponding to you search."
+  },
+  "deviceAccessForm": {
+    "namePlaceholder": "Enter your username",
+    "roles": "Role(s)",
+    "rolePlaceholder": "Choose Role",
+    "profileTree": "Profile Tree",
+    "selectDevices": "Select Devices"
+  },
+  "addProfilePanel": {
+    "title": "Add New Profile",
+    "submit": "Add Profile"
+  }
+}
